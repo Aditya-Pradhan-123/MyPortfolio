@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.489" height="39.734" viewBox="0 0 26.489 39.734">
+  <g id="figma" transform="translate(-4)">
+    <path id="Path_69" data-name="Path 69" d="M10.622,29.245a6.625,6.625,0,0,0,6.622-6.622V16H10.622a6.622,6.622,0,0,0,0,13.245Z" transform="translate(0 10.489)" fill="#0acf83"/>
+    <path id="Path_70" data-name="Path 70" d="M4,14.622A6.625,6.625,0,0,1,10.622,8h6.622V21.245H10.622A6.625,6.625,0,0,1,4,14.622Z" transform="translate(0 5.245)" fill="#a259ff"/>
+    <path id="Path_71" data-name="Path 71" d="M4,6.622A6.625,6.625,0,0,1,10.622,0h6.622V13.245H10.622A6.625,6.625,0,0,1,4,6.622Z" fill="#f24e1e"/>
+    <path id="Path_72" data-name="Path 72" d="M12,0h6.622a6.622,6.622,0,0,1,0,13.245H12Z" transform="translate(5.245)" fill="#ff7262"/>
+    <path id="Path_73" data-name="Path 73" d="M25.245,14.622A6.622,6.622,0,1,1,18.622,8,6.625,6.625,0,0,1,25.245,14.622Z" transform="translate(5.245 5.245)" fill="#1abcfe"/>
+  </g>
+</svg>
